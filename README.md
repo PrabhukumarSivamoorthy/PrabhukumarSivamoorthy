@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there 👋 🙋‍♂️I am Prabhukumar Sivamoorthy, 
 
-I am Prabhukumar Sivamoorthy, Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates
+
+## 💁‍♂️ About me 👨🏽‍💻
+ 
+ Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates
 
 - 🔭 I’m currently working on few time mini projects for kids
 - 🌱 I’m currently learning Machine Learing and Artificial intelligence.
