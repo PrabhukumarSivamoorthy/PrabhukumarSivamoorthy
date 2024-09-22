@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I am Prabhukumar Sivamoorthy, [yet to update]
+
+- 🔭 I’m currently working on few time mini projects for kids
+- 🌱 I’m currently learning Machine Learing and Artificial intelligence 
   
 
 <!--
