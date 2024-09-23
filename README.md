@@ -5,11 +5,11 @@
  
  Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates
 
-- 🔭 I’m currently working on [Mini projects for Kids](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)
+- 🔭 I’m currently working on [Mini Projects for Students](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)
   
 - 🌱 I’m currently learning **Machine learning and Artificial intelligence**
   
-- 🏗️ I recently build a [US states Guessing Game for Kids and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
+- 🏗️ I recently build a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
 
 -  📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
 
