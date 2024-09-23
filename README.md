@@ -5,7 +5,7 @@
  
  Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates
 
-- 🔭 I’m currently working on few time mini projects for kids
+- 🔭 I’m working on few time mini projects for kids
 - 🌱 I’m currently learning Machine Learing and Artificial intelligence.
 - 🏗️ I recently build a US states guessing game for kids [here](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
 
