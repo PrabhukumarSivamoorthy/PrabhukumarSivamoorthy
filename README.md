@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Machine learning and Artificial intelligence**
   
-- 🏗️ I recently build a US states guessing game for kids [here](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
+- 🏗️ I recently build a [US states Guessing Game for Kids and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
 
 -  📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
 
