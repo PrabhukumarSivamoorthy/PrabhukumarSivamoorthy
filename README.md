@@ -3,11 +3,13 @@
 
 ## 💁‍♂️ About me 👨🏽‍💻 
  
- Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates
+ Currently, I am in a process of constructing  and updating  my github profile. Stay stunned for further udpates.
+
+ Here are some updates.
 
 - 🔭 I’m currently working on [Mini Projects for Students](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)
   
-- 🌱 I’m currently learning **Machine learning and Artificial intelligence**
+- 🌱 I’m also learning **Machine learning and Artificial intelligence**
   
 - 🏗️ I recently build a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
 
@@ -16,7 +18,10 @@
 ##
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
 
 ## 
 
