@@ -82,9 +82,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&locale=en" alt="prabhukumarsivamoorthy" /></p>
 
 <!-- Stats on streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumarsivamoorthy&" alt="prabhukumarsivamoorthy" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+
+
 
 <!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumarsivamoorthy&" alt="prabhukumarsivamoorthy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhukumarsivamoorthy&show_icons=true&locale=en&layout=compact" alt="prabhukumarsivamoorthy" /></p>
 -->
 
