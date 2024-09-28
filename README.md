@@ -79,19 +79,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="prabhukumarsivamoorthy" /> </p>
 
 <!-- Stats on commit-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&locale=en" alt="prabhukumarsivamoorthy" /></p>
+![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Stats on streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=github-dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
 
 <!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&locale=en" alt="prabhukumarsivamoorthy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumarsivamoorthy&" alt="prabhukumarsivamoorthy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhukumarsivamoorthy&show_icons=true&locale=en&layout=compact" alt="prabhukumarsivamoorthy" /></p>
 -->
 
 <!--
+Reference: 
+https://github-readme-streak-stats.herokuapp.com/demo/
+
 **PrabhukumarSivamoorthy/PrabhukumarSivamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
