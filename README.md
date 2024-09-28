@@ -3,17 +3,17 @@
 
 ## 💁‍♂️ About me 👨🏽‍💻 
  
- I am passionate about software development and automation, focusing on data structures, algorithms, NVMe, and PCIe. If you're interested in collaborating or have any questions, feel free to reach out!
+> I am passionate about software development and automation, focusing on data structures, algorithms, NVMe, and PCIe. If you're interested in collaborating or have any questions, feel free to reach out!
 
  Here are some updates.
 
-- 🔭 I’m currently working on couple of mini projects under 🏢 [Prabhu-s-mini-projects Org](https://github.com/Prabhu-s-mini-projects) 💼
-  
-- 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
-  
-- 🏗️ I recently build a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
-
--  📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
+> - 🔭 I’m currently working on couple of mini projects under 🏢 [Prabhu-s-mini-projects Org](https://github.com/Prabhu-s-mini-projects) 💼
+> 
+> - 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
+> 
+> - 🏗️ I recently build a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
+>
+>  - 📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
 
 ##
 <!-- Used tag to avoid a line below -->
