@@ -73,10 +73,7 @@
 
 ##
 <!-- Used tag to avoid a line below -->
-<h3 align="left">Stats:</h3> 
-
-<!-- Profile View count-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="prabhukumarsivamoorthy" /> </p>
+<h3 align="left"></h3> 
 
 <!-- Stats on commit-->
 ![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
@@ -85,6 +82,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=github-dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
+<!-- Profile View count-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="prabhukumarsivamoorthy" /> </p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&locale=en" alt="prabhukumarsivamoorthy" /></p>
