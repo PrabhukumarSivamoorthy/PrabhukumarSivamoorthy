@@ -79,8 +79,15 @@
 ![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Stats on streak -->
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=github-dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
-
+-->
+<p align="center">
+ <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=github_dark&hide_border=true&card_width=1000" />
+     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+ </picture>
+</p>
 
 <!-- Profile View count-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="prabhukumarsivamoorthy" /> </p>
