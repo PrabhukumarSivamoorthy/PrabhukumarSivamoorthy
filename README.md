@@ -74,7 +74,7 @@
 
 ##
 <!-- Used tag to avoid a line below -->
-<h3 align="left"> 📈 Stats 🎯</h3> 
+<h3 align="left"> 📈 GitHub Stats 🎯</h3> 
 
 <!-- Stats on commit-->
 <!--
