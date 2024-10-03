@@ -76,8 +76,22 @@
 <h3 align="left"></h3> 
 
 <!-- Stats on commit-->
+<!--
 ![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=1000)
-
+-->
+<p align="left">
+ <picture>
+   <source
+     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=900"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+ </picture>
+</p>
 <!-- Stats on streak -->
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=github-dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
