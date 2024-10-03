@@ -76,7 +76,7 @@
 <h3 align="left"></h3> 
 
 <!-- Stats on commit-->
-![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=1000)
 
 <!-- Stats on streak -->
 <!--
