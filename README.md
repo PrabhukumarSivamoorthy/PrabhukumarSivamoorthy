@@ -85,7 +85,7 @@
 <p align="center">
  <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=github_dark&hide_border=true&card_width=1000" />
-     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+     <img src="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=default&hide_border=true&card_width=1000" />
  </picture>
 </p>
 
