@@ -73,7 +73,7 @@
 
 ##
 <!-- Used tag to avoid a line below -->
-<h3 align="left"></h3> 
+<h3 align="left"> 📈 Stats 🎯</h3> 
 
 <!-- Stats on commit-->
 <!--
@@ -82,11 +82,11 @@
 <p align="left">
  <picture>
    <source
-     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=900"
+     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=800&hide_title=true&rank_icon=github"
      media="(prefers-color-scheme: dark)"
    />
    <source
-     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&hide_border=true&count_private=true&card_width=900&hide_title=true"
+     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&hide_border=true&count_private=true&card_width=800&hide_title=true&rank_icon=github"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
