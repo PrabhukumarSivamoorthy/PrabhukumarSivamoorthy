@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Prabhukumar Sivamoorthy</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=Python+Developer;Principal+Engineer++at++SanDisk+(Western+Digital))](https://git.io/typing-svg)
 
 ## 💁‍♂️ About me 👨🏽‍💻 
  
