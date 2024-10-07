@@ -1,3 +1,5 @@
+# 🚧 Under Construction 🏗️
+
 <h1 align="center">Hi there👋, I'm Prabhukumar Sivamoorthy</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Principal+Engineer++%40+SanDisk+(Western+Digital);Always+Learning+New+Things)](https://git.io/typing-svg)
@@ -12,7 +14,7 @@
 > 
 > - 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
 > 
-> - 🏗️ I recently build a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
+> - 🏗️ I recently built a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
 >
 >  - 📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
 
