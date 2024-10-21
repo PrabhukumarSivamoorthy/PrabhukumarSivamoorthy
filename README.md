@@ -67,7 +67,7 @@
  </a>
 
  <!-- Leetcode -->
- <a href="https://www.leetcode.com/https://leetcode.com/u/prabhukumar_sivamoorthy/" target="blank">
+ <a href="https://leetcode.com/u/prabhukumar_sivamoorthy/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prabhukumar_sivamoorthy/" height="30" width="40" />
   LeetCode
  </a>
