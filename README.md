@@ -14,7 +14,7 @@
 > 
 > - 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
 > 
-> - 🏗️ I recently built a [US states Guessing Game for Students and Friends](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks/tree/main/US_state_Game)
+> - 🏗️ I recently built a [US states Guessing Game for Students and Friends](https://github.com/InnovBotics-Labs/tiny-python-tasks/tree/main/US_state_Game)
 >
 >  - 📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
 
