@@ -10,7 +10,7 @@
 
  Here are some updates.
 
-> - 🔭 I’m currently working on couple of mini projects under my org called 🏢 [InnovBotics Labs](https://github.com/InnovBotics-Labs)) 💼
+> - 🔭 I’m currently working on couple of mini projects under my org called 🏢 [InnovBotics Labs](https://github.com/InnovBotics-Labs) 💼
 > 
 > - 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
 > 
