@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there👋, I'm Prabhukumar Sivamoorthy</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Principal+Engineer++%40+SanDisk+(Western+Digital);Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Principal+Engineer++%40+SanDisk;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ## 💁‍♂️ About me 👨🏽‍💻 
  
