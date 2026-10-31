@@ -19,11 +19,11 @@
 
 ## About
 
-Staff Engineer at **SanDisk**, advancing datacenter SSD technology across the NVMe and PCIe standards. I build Python systems that validate storage firmware at scale, and AI tooling (RAG, MCP, LangGraph agents) that makes engineering teams faster. Previously a Software Engineer at Western Digital (2018–2025).
+Staff Engineer at **SanDisk**. Datacenter SSDs, NVMe, PCIe. Python systems for firmware validation, and AI agents built on RAG, MCP, and LangGraph.
 
-- 🔭 Currently building **Storage-SSD Specs**, a retrieval-augmented assistant over SSD specifications
-- 🌱 Exploring agentic AI frameworks and LLM infrastructure
-- 🏢 Running [InnovBotics Labs](https://github.com/InnovBotics-Labs) (prototypes and mini projects) and [Harvest-Forged-Code](https://github.com/Harvest-Forged-Code) (open source)
+- 🔭 Building **Storage-SSD Specs**: RAG over NVMe/PCIe specs with an MCP server
+- 🌱 Exploring agentic AI and LLM infrastructure
+- 🏢 [InnovBotics Labs](https://github.com/InnovBotics-Labs) · [Harvest-Forged-Code](https://github.com/Harvest-Forged-Code)
 
 ## Featured Project
 
@@ -31,13 +31,13 @@ Staff Engineer at **SanDisk**, advancing datacenter SSD technology across the NV
 
 > **Ask the spec, not the PDF.**
 
-A retrieval-augmented assistant over NVMe, PCIe, and ONFI specifications. Every answer is grounded in indexed spec text and cites the exact clause, so it maps directly to the section you would open in the PDF. Responses stream over SSE, and an MCP server lets agents query the standards programmatically.
+RAG assistant over NVMe, PCIe, and ONFI specs. Every answer cites the exact clause. Streams over SSE and exposes an MCP server for agents.
 
-- **Section-aware chunking** that follows the spec hierarchy (sections, figures, tables) across ~4,300 chunks
-- **Citation-first answers** with hover previews of the original source text
-- **Animated visualizations** of NVMe command flow and PCIe link training (LTSSM, Gen4/5/6, ASPM)
-- **Ingestion pipeline** for adding new specification PDFs to the index
-- Corpus: NVMe Base 2.3, NVM Command Set 1.2, NVMe over PCIe 1.3, NVMe-MI 2.1, PCIe Base 6.2, ONFI 5.1
+- **Section-aware chunking** across ~4,300 spec chunks
+- **Citation-first answers** with hover previews of source text
+- **Animated NVMe command flow and PCIe link training** (LTSSM, Gen4/5/6, ASPM)
+- **PDF ingestion pipeline** for new specs
+- **Corpus:** NVMe 2.3, NVM Command Set 1.2, NVMe/PCIe Transport 1.3, NVMe-MI 2.1, PCIe 6.2, ONFI 5.1
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -50,11 +50,11 @@ A retrieval-augmented assistant over NVMe, PCIe, and ONFI specifications. Every 
 
 | Project | Year | What it does | Stack |
 |---------|------|--------------|-------|
-| **AI Productivity Agents** | 2025 | Agentic tooling for drafting, triage, and knowledge retrieval in engineering workflows | LangChain, LangGraph, CrewAI, MCP |
-| **Firmware Verification Suite** | 2024 | Python automation that validates SSD firmware against NVMe and PCIe standards through repeatable, instrumented test runs | Python, NVMe, PCIe, Automation |
-| **Datacenter SSD Tooling** | 2023 | Internal Python platforms for hardware-software integration and data-driven validation | Python, SQL, Docker, Kubernetes |
+| **AI Productivity Agents** | 2025 | Agents for drafting, triage, and knowledge retrieval | LangChain, LangGraph, CrewAI, MCP |
+| **Firmware Verification Suite** | 2024 | Automated SSD firmware validation against NVMe and PCIe | Python, NVMe, PCIe, Automation |
+| **Datacenter SSD Tooling** | 2023 | Python platforms for hardware-software integration and validation | Python, SQL, Docker, Kubernetes |
 
-Case studies and more at the [portfolio](https://prabhukumar-sivamoorthy.onrender.com).
+More at the [portfolio](https://prabhukumar-sivamoorthy.onrender.com).
 
 ## Skills
 
