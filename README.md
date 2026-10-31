@@ -1,137 +1,115 @@
-# 🚧 Under Construction 🏗️
+<!-- Typing banner generated with https://readme-typing-svg.demolab.com -->
 
-<h1 align="center">Hi there👋, I'm Prabhukumar Sivamoorthy</h1>
+<h1 align="center">Prabhukumar Sivamoorthy</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Principal+Engineer++%40+SanDisk;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-## 💁‍♂️ About me 👨🏽‍💻 
- 
-> I am passionate about software development and automation, focusing on data structures, algorithms, NVMe, and PCIe. If you're interested in collaborating or have any questions, feel free to reach out!
-
- Here are some updates.
-
-> - 🔭 I’m currently working on couple of mini projects under my org called 🏢 [InnovBotics Labs](https://github.com/InnovBotics-Labs) 💼 Also, Running org 🏢 [Harvest-Forged-Code](https://github.com/Harvest-Forged-Code) 💼 that conatins opensource project  
-> 
-> - 🌱 I’m also learning **Machine learning and Artificial intelligence** 𝞹📈🧠📚
-> 
-> - 🏗️ I recently built a [US states Guessing Game for Students and Friends](https://github.com/InnovBotics-Labs/tiny-python-tasks/tree/main/US_state_Game)
->
->  - 📫 How to reach me **prabhukumarsivamoorthy@gmail.com**
->
->  - 💻🧑‍💻 Here is My Portfolio  Website: [Prabhukumar Sivamoorthy](https://portfolio-yie0.onrender.com)
-
-##
-<!-- Used tag to avoid a line below -->
-<h3 align="left">🛠️ Technologies & Skills</h3>
-
-<!-- created a container to hold all the links and align to left -->
-<p align="left"> 
-
-<!-- For python image and text --> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <b>Python</b>
- </a> 
-
- <!-- For git image and text -->
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <b>Git</b>
- </a> 
-
- <!-- for IFTT image and text -->
- <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-  <b>IFTT</b>
- </a>
- 
-</p>
-
-<!-- addiing this to have a line -->
-## 
-
-<!-- Used tag to avoid a line below -->
-<h3 align="left">Connect with me: 🤝 </h3>
-
-<!-- created a container to hold all the links and align to left -->
-<p align="left">
-
- <!-- Linkedin -->
- <a href="https://www.linkedin.com/in/prabhukumarsivamoorthy/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="30" width="40" />
-  LinkedIn
- </a>
-
- <!-- Stack overflow -->
- <a href="https://stackoverflow.com/users/26809936/prabhu" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26809936/prabhukumar-sivamoorthy" height="30"        width="40" />
-  Stack <b>Overflow</b>
- </a>
-
- <!-- Leetcode -->
- <a href="https://leetcode.com/u/prabhukumar_sivamoorthy/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prabhukumar_sivamoorthy/" height="30" width="40" />
-  LeetCode
- </a>
-</p>
-
-
-##
-<!-- Used tag to avoid a line below -->
-<h3 align="left"> 📈 GitHub Stats 🎯</h3> 
-
-<!-- Stats on commit-->
-<!--
-![prabhukumarsivamoorthy's Stats](https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=1000)
--->
-<p align="left">
- <picture>
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&count_private=true&card_width=800&hide_title=true&rank_icon=github"
-     media="(prefers-color-scheme: dark)"
-   />
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&hide_border=true&count_private=true&card_width=800&hide_title=true&rank_icon=github"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-   />
-   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
- </picture>
-</p>
-<!-- Stats on streak -->
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhukumarSivamoorthy%20&theme=github-dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
--->
 <p align="center">
- <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=github_dark&hide_border=true&card_width=1000" />
-     <img src="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=default&hide_border=true&card_width=1000" />
- </picture>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Staff+Engineer+%40+SanDisk;Python+%7C+RAG+%7C+Agentic+AI;Datacenter+SSD+%7C+NVMe+%7C+PCIe;Building+systems+that+don't+break" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Profile View count-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="prabhukumarsivamoorthy" /> </p>
+<p align="center"><i>Building &amp; validating systems that don't break.</i></p>
 
-<!-- comment -->
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&locale=en" alt="prabhukumarsivamoorthy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumarsivamoorthy&" alt="prabhukumarsivamoorthy" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhukumarsivamoorthy&show_icons=true&locale=en&layout=compact" alt="prabhukumarsivamoorthy" /></p>
--->
+<p align="center">
+  <a href="https://prabhukumar-sivamoorthy.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prabhukumarsivamoorthy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prabhukumarsivamoorthy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stackoverflow.com/users/26809936/prabhu"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://leetcode.com/u/prabhukumar_sivamoorthy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-<!--
-Reference: 
-https://github-readme-streak-stats.herokuapp.com/demo/
+## About
 
-**PrabhukumarSivamoorthy/PrabhukumarSivamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Engineer at **SanDisk**, advancing datacenter SSD technology across the NVMe and PCIe standards. I build Python systems that validate storage firmware at scale, and AI tooling (RAG, MCP, LangGraph agents) that makes engineering teams faster. Previously a Software Engineer at Western Digital (2018–2025).
 
-Here are some ideas to get you started:
+- 🔭 Currently building **Storage-SSD Specs**, a retrieval-augmented assistant over SSD specifications
+- 🌱 Exploring agentic AI frameworks and LLM infrastructure
+- 🏢 Running [InnovBotics Labs](https://github.com/InnovBotics-Labs) (prototypes and mini projects) and [Harvest-Forged-Code](https://github.com/Harvest-Forged-Code) (open source)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [Storage-SSD Specs](https://storage-ssd-rag.onrender.com) &nbsp;<a href="https://storage-ssd-rag.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
+
+> **Ask the spec, not the PDF.**
+
+A retrieval-augmented assistant over NVMe, PCIe, and ONFI specifications. Every answer is grounded in indexed spec text and cites the exact clause, so it maps directly to the section you would open in the PDF. Responses stream over SSE, and an MCP server lets agents query the standards programmatically.
+
+- **Section-aware chunking** that follows the spec hierarchy (sections, figures, tables) across ~4,300 chunks
+- **Citation-first answers** with hover previews of the original source text
+- **Animated visualizations** of NVMe command flow and PCIe link training (LTSSM, Gen4/5/6, ASPM)
+- **Ingestion pipeline** for adding new specification PDFs to the index
+- Corpus: NVMe Base 2.3, NVM Command Set 1.2, NVMe over PCIe 1.3, NVMe-MI 2.1, PCIe Base 6.2, ONFI 5.1
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+## Other Projects
+
+| Project | Year | What it does | Stack |
+|---------|------|--------------|-------|
+| **AI Productivity Agents** | 2025 | Agentic tooling for drafting, triage, and knowledge retrieval in engineering workflows | LangChain, LangGraph, CrewAI, MCP |
+| **Firmware Verification Suite** | 2024 | Python automation that validates SSD firmware against NVMe and PCIe standards through repeatable, instrumented test runs | Python, NVMe, PCIe, Automation |
+| **Datacenter SSD Tooling** | 2023 | Internal Python platforms for hardware-software integration and data-driven validation | Python, SQL, Docker, Kubernetes |
+
+Case studies and more at the [portfolio](https://prabhukumar-sivamoorthy.onrender.com).
+
+## Skills
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**AI &amp; Agents**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+</p>
+
+**LLM Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/vLLM-4B5563?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/llama.cpp-7F7F7F?style=for-the-badge" alt="llama.cpp" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+**Storage &amp; Platform**
+
+<p>
+  <img src="https://img.shields.io/badge/NVMe-005A9C?style=for-the-badge" alt="NVMe" />
+  <img src="https://img.shields.io/badge/PCIe-0071C5?style=for-the-badge" alt="PCIe" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&rank_icon=github&card_width=495" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&hide_border=true&count_private=true&hide_title=true&rank_icon=github&card_width=495" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prabhukumarsivamoorthy&show_icons=true&hide_border=true&count_private=true&hide_title=true&rank_icon=github&card_width=495" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=github_dark&hide_border=true&card_width=495" />
+    <img src="https://streak-stats.demolab.com?user=prabhukumarsivamoorthy&theme=default&hide_border=true&card_width=495" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhukumarsivamoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
